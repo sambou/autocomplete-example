@@ -2,7 +2,7 @@ name:                autocomplete-example
 version:             0.1.0.0
 synopsis:            Autocomplete demo with Tries
 description:         Please see README.md
-homepage:            https://github.com/sboussaid/autocomplete-example
+homepage:            https://github.com/sambou/autocomplete-example
 license:             BSD3
 license-file:        LICENSE
 author:              Sami Boussaid
