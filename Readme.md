@@ -1,5 +1,5 @@
 # Haskell Autocomplete Example
-This is a small example for a simple autocomplete service using bytestring tries and scotty.
+This is a small example for a simple autocomplete service using Haskell, bytestring tries, scotty and RxJS.
 
 # Ideas for improvement
 - Add setup instructions
